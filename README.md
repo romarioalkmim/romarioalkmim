@@ -1,0 +1,4 @@
+- 👋 Olá, sou @romarioalkmim
+- 👀 Estou interessado em ingressar na area de desenvolvimento de softwares
+- 🌱 Atualmente estou estudando conceitos de programação e codificando em Python
+- 📫 Você pode me encontrar no LinkedIn 
